@@ -44,7 +44,7 @@ go build -o ntp-sync ./cmd/main.go
 Разницу между ними
 
 🖼️ Скриншоты интерфейса
-<img src="https://github.com/flizity/image/blob/main/timeserver.png" width="500">
+![Screenshot](https://raw.githubusercontent.com/flizity/image/refs/heads/main/timeserver.png)
 
 ⚙️ Поддерживаемые NTP-серверы
 Приложение автоматически проверяет несколько серверов:
