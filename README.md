@@ -44,7 +44,7 @@ go build -o ntp-sync ./cmd/main.go
 Разницу между ними
 
 🖼️ Скриншоты интерфейса
-![image](https://github.com/user-attachments/assets/bae73c8d-6c2b-4ec8-8f9b-a1cd12ef0d89)
+[image](https://github.com/user-attachments/assets/bae73c8d-6c2b-4ec8-8f9b-a1cd12ef0d89)
 
 ⚙️ Поддерживаемые NTP-серверы
 Приложение автоматически проверяет несколько серверов:
