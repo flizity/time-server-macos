@@ -44,7 +44,7 @@ go build -o ntp-sync ./cmd/main.go
 Разницу между ними
 
 🖼️ Скриншоты интерфейса
-![Screnshot](https://github.com/flizity/time-server-macos/blob/main/image.png)
+![Screnshot](https://ibb.co/ynDVLTQH)
 
 ⚙️ Поддерживаемые NTP-серверы
 Приложение автоматически проверяет несколько серверов:
