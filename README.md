@@ -58,6 +58,7 @@ ntp1.stratum2.ru
 pool.ntp.org
 
 Вы можете указать любой другой NTP-сервер вручную.
+![image](https://github.com/user-attachments/assets/0a93e6f2-9521-4774-8988-937defbfae6e)
 
 🛠️ Особенности для macOS
 При обнаружении расхождения более 5 секунд приложение:
