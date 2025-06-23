@@ -39,23 +39,20 @@ go build -o ntp-sync ./cmd/main.go
 
 Точное время NTP-сервера
 
-Ваше локальное время
+- Ваше локальное время
 
-Разницу между ними
-
-🖼️ Скриншоты интерфейса
-![Screenshot](https://raw.githubusercontent.com/flizity/image/refs/heads/main/timeserver.png)
+- Разницу между ними
 
 ⚙️ Поддерживаемые NTP-серверы
 Приложение автоматически проверяет несколько серверов:
 
-time.apple.com
+- time.apple.com
 
-time.google.com
+- time.google.com
 
-ntp1.stratum2.ru
+- ntp1.stratum2.ru
 
-pool.ntp.org
+- pool.ntp.org
 
 Вы можете указать любой другой NTP-сервер вручную.
 
