@@ -2,7 +2,6 @@
 
 ![Go Version](https://img.shields.io/badge/Go-1.21%2B-blue)
 ![Fyne Version](https://img.shields.io/badge/Fyne-v2.4%2B-9cf)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 Кроссплатформенное приложение для синхронизации системного времени с NTP-серверами, написанное на Go с использованием GUI-фреймворка Fyne.
 
